@@ -91,12 +91,92 @@
     },
     {
         "id": "19",
-        "kaomoji": "(・`ω´・)",
-        "category": "Angry"
+        "kaomoji": "∪･ω･∪",
+        "category": "Dog"
     },
     {
         "id": "20",
-        "kaomoji": "(・`ω´・)",
-        "category": "Angry"
+        "kaomoji": "V●ᴥ●V",
+        "category": "Dog"
+    },
+    {
+        "id": "21",
+        "kaomoji": "ＵＴｪＴＵ",
+        "category": "Dog"
+    },
+    {
+        "id": "22",
+        "kaomoji": "∪￣-￣∪",
+        "category": "Dog"
+    },
+    {
+        "id": "23",
+        "kaomoji": "(￢_￢)",
+        "category": "Doubt"
+    },
+    {
+        "id": "24",
+        "kaomoji": "(→_→)",
+        "category": "Doubt"
+    },
+    {
+        "id": "25",
+        "kaomoji": "(←_←)",
+        "category": "Doubt"
+    },
+    {
+        "id": "26",
+        "kaomoji": "(￢‿￢ )",
+        "category": "Doubt"
+    },
+    {
+        "id": "27",
+        "kaomoji": "(⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)",
+        "category": "Embarrased"
+    },
+    {
+        "id": "28",
+        "kaomoji": "(⁄ ⁄•⁄ω⁄•⁄ ⁄)",
+        "category": "Embarrased"
+    },
+    {
+        "id": "29",
+        "kaomoji": "( ◡‿◡ *)",
+        "category": "Embarrased"
+    },
+    {
+        "id": "30",
+        "kaomoji": "(*ﾉ▽ﾉ)",
+        "category": "Embarrased"
+    },
+    {
+        "id": "31",
+        "kaomoji": "(￣▽￣*)ゞ",
+        "category": "Embarrased"
+    },
+    {
+        "id": "32",
+        "kaomoji": "(//ω//)",
+        "category": "Embarrased"
+    },
+    {
+        "id": "33",
+        "kaomoji": "＼(º □ º l|l)/",
+        "category": "Fear"
+    },
+    {
+        "id": "34",
+        "kaomoji": "Σ(°△°|||)︴",
+        "category": "Fear"
+    },
+    {
+        "id": "35",
+        "kaomoji": "〣( ºΔº )〣",
+        "category": "Fear"
+    },
+    {
+        "id": "36",
+        "kaomoji": "＼(〇_ｏ)／",
+        "category": "Fear"
     }
 ]

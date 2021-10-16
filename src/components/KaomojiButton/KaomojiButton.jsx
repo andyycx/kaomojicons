@@ -1,19 +1,22 @@
 import React, { useState } from 'react';
 import { CopyToClipboard } from 'react-copy-to-clipboard';
+import CopiedBanner from '../CopiedBanner/CopiedBanner';
+import './KaomojiButton.css'
 
 const KaomojiButton = ({ kaomoji }) => {
     const [copied, setCopied] = useState(false)
 
     return (
-        <div>
+        <div className="container">
             <CopyToClipboard text={kaomoji}
                 onCopy={() => setCopied(true)}>
-                <button>{kaomoji}</button>
+                <button className="kaomoji">{kaomoji}</button>
             </CopyToClipboard>
-            {copied 
-                ? <span style={{color: 'red'}}> Copied </span>
+            {copied
+                ? <CopiedBanner setCopied={setCopied} kaomoji={kaomoji} />
                 : null
             }
+            
         </div>
     );
 };
