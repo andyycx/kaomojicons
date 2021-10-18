@@ -1,10 +1,5 @@
-.grid-kaomojis {
-    display: grid;
-    grid-template-columns: 1fr 1r 1fr;
-    grid-template-rows: auto;
-}
-
-.kaomoji {
+.kaomoji-container {
     text-align: center;
     padding: 0.5rem;
+    display: inline-block;
 }

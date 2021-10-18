@@ -6,7 +6,7 @@ import KaomojiButton from '../KaomojiButton/KaomojiButton';
 
 const KaomojiList = () => {
     return (
-        <div className="grid-kaomojis">
+        <div className="kaomojis">
             {kaomojis.map(kaomoji =>
                 <KaomojiButton key={kaomoji.id} kaomoji={kaomoji.kaomoji}/>)
             }
