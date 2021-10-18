@@ -9,11 +9,9 @@ const App = () => {
     <div className="grid-container">
       <Header />
       <div className="ads">
-        Ads
       </div>
       <KaomojiList />
       <div className="adss">
-        Ads
       </div>
       <Footer />
     </div>
