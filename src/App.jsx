@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from './components/Header/Header';
 import KaomojiList from './components/KaomojiList/KaomojiList';
+import Footer from './components/Footer/Footer';
 import './App.css'
 
 const App = () => {
@@ -14,9 +15,7 @@ const App = () => {
       <div className="adss">
         Ads
       </div>
-      <div className="footer">
-        Footer
-      </div>
+      <Footer />
     </div>
   );
 };

@@ -1,181 +1,186 @@
  [
     {
         "id": "1",
+        "kaomoji": "¯\\_(ツ)_/¯",
+        "category": "Shrug"
+    },
+    {
+        "id": "2",
         "kaomoji": "(・`ω´・)",
         "category": "Angry"
     },
     {
-        "id": "2",
+        "id": "3",
         "kaomoji": "(＃`Д´)",
         "category": "Angry"
     },
     {
-        "id": "3",
+        "id": "4",
         "kaomoji": "(ノ°益°)ノ",
         "category": "Angry"
     },
     {
-        "id": "4",
+        "id": "5",
         "kaomoji": "(╬ Ò﹏Ó)",
         "category": "Angry"
     },
     {
-        "id": "5",
+        "id": "6",
         "kaomoji": "(凸ಠ益ಠ)凸",
         "category": "Angry"
     },
     {
-        "id": "6",
+        "id": "7",
         "kaomoji": "(҂ `з´ )",
         "category": "Angry"
     },
     {
-        "id": "7",
+        "id": "8",
         "kaomoji": "(=^･ω･^=)",
         "category": "Cat"
     },
     {
-        "id": "8",
+        "id": "9",
         "kaomoji": "(^=◕ᴥ◕=^)",
         "category": "Cat"
     },
     {
-        "id": "9",
+        "id": "10",
         "kaomoji": "(=^ ◡ ^=)",
         "category": "Cat"
     },
     {
-        "id": "10",
+        "id": "11",
         "kaomoji": "ଲ(ⓛ ω ⓛ)ଲ",
         "category": "Cat"
     },
     {
-        "id": "11",
+        "id": "12",
         "kaomoji": "(•ิ_•ิ)?",
         "category": "Confusion"
     },
     {
-        "id": "12",
+        "id": "13",
         "kaomoji": "(￣_￣)・・・",
         "category": "Confusion"
     },
     {
-        "id": "13",
+        "id": "14",
         "kaomoji": "┐(￣ヘ￣;)┌",
         "category": "Confusion"
     },
     {
-        "id": "14",
+        "id": "15",
         "kaomoji": "(・_・;)",
         "category": "Confusion"
     },
     {
-        "id": "15",
+        "id": "16",
         "kaomoji": "(￣ ￣|||)",
         "category": "Frustrated"
     },
     {
-        "id": "16",
+        "id": "17",
         "kaomoji": "(⇀‸↼‶)",
         "category": "Frustrated"
     },
     {
-        "id": "17",
+        "id": "18",
         "kaomoji": "(눈_눈)",
         "category": "Frustrated"
     },
     {
-        "id": "18",
+        "id": "19",
         "kaomoji": "(︶︹︺)",
         "category": "Frustrated"
     },
     {
-        "id": "19",
+        "id": "20",
         "kaomoji": "∪･ω･∪",
         "category": "Dog"
     },
     {
-        "id": "20",
+        "id": "21",
         "kaomoji": "V●ᴥ●V",
         "category": "Dog"
     },
     {
-        "id": "21",
+        "id": "22",
         "kaomoji": "ＵＴｪＴＵ",
         "category": "Dog"
     },
     {
-        "id": "22",
+        "id": "23",
         "kaomoji": "∪￣-￣∪",
         "category": "Dog"
     },
     {
-        "id": "23",
+        "id": "24",
         "kaomoji": "(￢_￢)",
         "category": "Doubt"
     },
     {
-        "id": "24",
+        "id": "25",
         "kaomoji": "(→_→)",
         "category": "Doubt"
     },
     {
-        "id": "25",
+        "id": "26",
         "kaomoji": "(←_←)",
         "category": "Doubt"
     },
     {
-        "id": "26",
+        "id": "27",
         "kaomoji": "(￢‿￢ )",
         "category": "Doubt"
     },
     {
-        "id": "27",
+        "id": "28",
         "kaomoji": "(⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)",
         "category": "Embarrased"
     },
     {
-        "id": "28",
+        "id": "29",
         "kaomoji": "(⁄ ⁄•⁄ω⁄•⁄ ⁄)",
         "category": "Embarrased"
     },
     {
-        "id": "29",
+        "id": "30",
         "kaomoji": "( ◡‿◡ *)",
         "category": "Embarrased"
     },
     {
-        "id": "30",
+        "id": "31",
         "kaomoji": "(*ﾉ▽ﾉ)",
         "category": "Embarrased"
     },
     {
-        "id": "31",
+        "id": "32",
         "kaomoji": "(￣▽￣*)ゞ",
         "category": "Embarrased"
     },
     {
-        "id": "32",
+        "id": "33",
         "kaomoji": "(//ω//)",
         "category": "Embarrased"
     },
     {
-        "id": "33",
+        "id": "34",
         "kaomoji": "＼(º □ º l|l)/",
         "category": "Fear"
     },
     {
-        "id": "34",
+        "id": "35",
         "kaomoji": "Σ(°△°|||)︴",
         "category": "Fear"
     },
     {
-        "id": "35",
+        "id": "36",
         "kaomoji": "〣( ºΔº )〣",
         "category": "Fear"
     },
     {
-        "id": "36",
+        "id": "37",
         "kaomoji": "＼(〇_ｏ)／",
         "category": "Fear"
     }
