@@ -1,9 +1,10 @@
-.row {
-    columns: 2;
+.grid-kaomojis {
+    display: grid;
+    grid-template-columns: 1fr 1r 1fr;
+    grid-template-rows: auto;
 }
 
-@media only screen and (min-width: 768px) {
-    .row {
-        columns: 3;
-    }
+.kaomoji {
+    text-align: center;
+    padding: 0.5rem;
 }

@@ -7,7 +7,7 @@ const KaomojiButton = ({ kaomoji }) => {
     const [copied, setCopied] = useState(false)
 
     return (
-        <div className="container">
+        <div className="kaomoji-container">
             <CopyToClipboard text={kaomoji}
                 onCopy={() => setCopied(true)}>
                 <button className="kaomoji">{kaomoji}</button>
