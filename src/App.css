@@ -3,9 +3,9 @@
     grid-template-columns: 1fr 1fr 3fr 1fr 1fr;
     grid-template-rows: auto;
     grid-template-areas: 
-        ". header header header ."
-        ". ads kaomojis adss ."
-        ". ads footer . .";
+        "header header header header header"
+        ". ads kaomojis anuncios ."
+        "footer footer footer footer footer";
     grid-gap: 1rem
 }
 
@@ -21,10 +21,20 @@
 
 .ads {
     grid-area: ads;
+    width: 160px; 
+    height: 600px; 
+    color: #fff; 
+    line-height: 600px; 
+    text-align: center;
 }
 
-.adss {
-    grid-area: adss;
+.anuncios {
+    grid-area: anuncios;
+    width: 160px; 
+    height: 600px; 
+    color: #fff; 
+    line-height: 600px; 
+    text-align: center;
 }
 
 .footer {

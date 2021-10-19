@@ -1,0 +1,14 @@
+.header {
+    top: 0;
+    z-index: 1;
+    width: 100%;
+    background-color: white;
+    text-align: center;
+}
+
+.title {
+    font-family: 'Northwest';
+    color: red;
+    font-weight: bold;
+    font-size: xx-large;
+}

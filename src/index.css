@@ -12,3 +12,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'Northwest';
+  src: local('Northwest')
+    url('./fonts/NorthwestBold-M8xx.otf') format('otf');
+}

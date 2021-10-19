@@ -11,7 +11,7 @@ const App = () => {
       <div className="ads">
       </div>
       <KaomojiList />
-      <div className="adss">
+      <div className="anuncios">
       </div>
       <Footer />
     </div>
