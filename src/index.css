@@ -15,6 +15,9 @@ code {
 
 @font-face {
   font-family: 'Northwest';
-  src: local('Northwest')
-    url('./fonts/NorthwestBold-M8xx.otf') format('otf');
+  src: url('./fonts/NORTHWEST-Bold.eot');
+  src:
+    url('./fonts/NorthwestBold-M8xx.otf') format('opentype'),
+    url('./fonts/NORTHWEST-Bold.svg') format('svg'),
+    url('./fonts/NORTHWEST-Bold.woff') format('woff');
 }
