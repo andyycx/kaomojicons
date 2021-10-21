@@ -16,11 +16,9 @@ const App = () => {
   return (
     <div className="grid-container">
       <Header />
-      <div className="ads">
-      </div>
+
       <KaomojiList />
-      <div className="anuncios">
-      </div>
+
       <Footer />
     </div>
   );
